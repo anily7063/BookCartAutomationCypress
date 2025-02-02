@@ -27,6 +27,7 @@ npx cypress open
 
 ## 📂 Project Structure
 
+
 module-registration-automation
 ├── cypress
 │   ├── e2e
