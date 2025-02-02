@@ -27,8 +27,7 @@ npx cypress open
 
  📂 Project Structure
 
-
-module-registration-automation
+## module-registration-automation
 ├── cypress
 │   ├── e2e
 │   │   ├── module-registration.cy.js
@@ -37,3 +36,5 @@ module-registration-automation
 ├── cypress.config.js
 ├── package.json
 ├── README.md
+
+
