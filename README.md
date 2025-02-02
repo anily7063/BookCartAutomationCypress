@@ -25,7 +25,7 @@ npx cypress run
 Run tests in interactive mode:
 npx cypress open
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 
 module-registration-automation
