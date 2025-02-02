@@ -13,7 +13,7 @@ This repository contains Cypress test automation scripts for module registration
 
 Clone this repository and install dependencies:
 
-
+```sh
 git clone https://github.com/anily7063/BookCartAutomationCypress.git
 npm install
 
@@ -25,9 +25,9 @@ npx cypress run
 Run tests in interactive mode:
 npx cypress open
 
- 📂 Project Structure
+## 📂 Project Structure
 
-## module-registration-automation
+module-registration-automation
 ├── cypress
 │   ├── e2e
 │   │   ├── module-registration.cy.js
