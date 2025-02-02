@@ -9,7 +9,7 @@ This repository contains Cypress test automation scripts for module registration
 - Install [Cypress]
   
 
-## 🛠 Installation
+## 🛠 Installation, Execution and Project Structure
 
 Clone this repository and install dependencies:
 
